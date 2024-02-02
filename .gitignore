@@ -1,3 +1,6 @@
-.ipynb_checkpoints/
-*txt
-*gsd
+#jupyter notebook
+.ipynb_checkpoints
+
+#data files
+*.gsd
+*.txt
